@@ -54,3 +54,23 @@ Los breakpoints o puntos de interrupción son como las pausas cuando vez una pel
 
 - while hasta que se cumpla la condición
 - Arrays nos pemite guardar datos en una fila
+
+## Array Multidimensional
+
+![alt text](image-3.png)
+
+cuando usarlo:
+
+- Array bidimensional: Como en excel que tiene filas y columnas, como en un videojuego 2d indicando la posición x y y
+- Array Multidimensional: Como Minecraft tener objetos uno encima de otros como su mapa tiene posiciones 3D.
+
+## Programación orientada a objetos
+
+- Fácil de entender por que representa al mundo real
+
+- Una clase permite guardar variables y metodos
+- Se van a crear instancias con datos diferentes
+
+## Machine learning
+
+Se guia con set de datos para gener un proceso
