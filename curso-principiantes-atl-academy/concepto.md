@@ -73,4 +73,26 @@ cuando usarlo:
 
 ## Machine learning
 
-Se guia con set de datos para gener un proceso
+Se guia con set de datos para gener un proceso, hacer prediciones, entre otros cosas.
+
+## SQL
+
+![alt text](image-4.png)
+
+## Estructura de una URL y los métodos HTTP
+
+- URL: abarca toda la dirección sin incluir el recurso
+- URN: abarca todo la dirección sin el esquema de seguridad https y el recurso
+- URI: abarca todo
+
+Los metodos van oculto cuando se el envia la petición al servidor
+![alt text](image-5.png)
+
+## JSON y XML
+![alt text](image-6.png)
+- Navegador: Hace petición al servidor
+  la comunicación puede hacerce entre servidores o cliente servidor
+- JSON: Represen datos estructurados pesa menos el formato JSON que XML, JSON es Javascript más fácil de leerlo para el navegador.
+- XML: Trabaja con Tag como html
+
+
