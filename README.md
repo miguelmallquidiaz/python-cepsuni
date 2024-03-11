@@ -1,2 +1,2 @@
-# pn2thon-cepsuni
+# python-cepsuni
 Aprendiendo sobre Pn2thon
