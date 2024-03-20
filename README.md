@@ -1,6 +1,6 @@
 # Sistema de gestión de clientes con python y api restful con flask
 
-Se desarrolló un sistema simple de gestión de clientes para que el usuario pueda realizar todas las operaciones CRUD(eliminar, editar, actualizar y agregar) de manera simple.
+Se desarrolló un sistema simple de gestión de clientes para que el usuario pueda realizar todas las operaciones CRUD(crear, leer, actualizar y eliminar) de manera simple.
 
 ## Funcionalidades:
 
